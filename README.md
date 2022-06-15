@@ -26,15 +26,24 @@
 ![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/match_results.png)
 
 >Fc Barcelona of Spain had the most wins during the period with 234 wins, closely followed by their la liga rivals Real Madrid with 228 wins
-
+>
+![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/most_wins.PNG)
 
 >The Eredivisie has the highest number of goals per game with 3.08 goals on average over 2448 games, followed by the Switzerland Super League with 2.9 goals on average in 1422 games
-
+>
+![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/most_goals.PNG)
 
 >SV Werder Bremen(Bundesliga) Conceeded 471 goals over the period followed by ADO Den Haag(Eredivisie) who conceeded 468 goals in the period
+>
+![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/most_goals_against.PNG)
+
 
 >The English Premier league and The French ligue 1 seems to be the most competitive of the top five european league, with 4 and 5 different winners respectively between 2008 and 2015, ligue 1 also had 11 different teams making the top 4 places, while the Epl has a 5.6 point gap on average between the top two teams, with the 2011/12 season decided by goal difference between the red and blue half of Manchester. 
 >
+![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/different%20winners.png)
+
+![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/different_top4.png)
+
 **Limitations:**
 
 >This analysis was done considering the points, league winners and top 4 teams to decide which league was the most competitive, however other metrics could have been used 
