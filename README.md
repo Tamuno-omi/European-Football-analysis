@@ -1,6 +1,17 @@
 # European-Football-analysis
 
-### Introduction
+## Installation
+The code was developed using Python 3.6.3. Necessary packages beyond the Python Standard Library are:
+
+* matplotlib==3.3.4
+* numpy==1.19.5
+* pandas==0.23.3
+* pyspark==2.4.3
+* seaborn==0.11.1 
+
+
+
+## Introduction
 
 >I will be performing an analysis on the European Football dataset gotten from [Kaggle](https://www.kaggle.com/hugomathien/soccer), this data set contains match information about 25979 games, players, and teams from several European countries from 2008 to 2016.
 
@@ -16,7 +27,7 @@
 > 
 > Which of the top five european leagues is the most competitive?
 
-### Conclusions
+## Conclusions
 
 
 >At the end of this interesting data analysis. I discovered some unexpected facts about the football teams and leagues. Here are some of the insights I ganered:
@@ -44,7 +55,7 @@
 
 ![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/different_top4.png)
 
-**Limitations:**
+## Limitations:
 
 >This analysis was done considering the points, league winners and top 4 teams to decide which league was the most competitive, however other metrics could have been used 
 
