@@ -22,7 +22,8 @@
 >At the end of this interesting data analysis. I discovered some unexpected facts about the football teams and leagues. Here are some of the insights I ganered:
 
 >Between a Home win, draw and an away win, the most frequent occurence in this dataset is a home win 45.87% , followed by an away win 28.7, and finally the least frequent is a draw with 25.39%
-https://github.com/Tamuno-omi/European-Football-analysis/blob/main/match_results.png
+>
+![image](https://github.com/Tamuno-omi/European-Football-analysis/blob/main/match_results.png)
 
 >Fc Barcelona of Spain had the most wins during the period with 234 wins, closely followed by their la liga rivals Real Madrid with 228 wins
 
